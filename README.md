@@ -4,9 +4,13 @@ www.habitableworlds.org
 https://hwo.stsci.edu
 
 A repository for Habitable Worlds Explorer DISRA Science case notebooks.
+
 These DISRA Science cases have been integrated into the pyDRM framework.
 
-Maintainers:
-Adric Riedel
-Andrew Myers
-Jason Tumlinson
+## Maintainers:
+
+Adric Riedel (STScI)
+
+Andrew Myers (STScI)
+
+Jason Tumlinson (STScI)
