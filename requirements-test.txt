@@ -1,0 +1,5 @@
+# Test dependencies for running notebooks in CI
+pytest>=7.0.0
+nbformat>=5.0.0
+nbclient>=0.7.0
+ipykernel>=6.0.0
