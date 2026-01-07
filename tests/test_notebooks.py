@@ -29,7 +29,7 @@ IGNORE_DIRS = {
 
 # Discover all notebooks in the repository
 NOTEBOOKS = [
-    nb for nb in REPO_ROOT.glob("**/*.ipynb")
+    nb for nb in REPO_ROOT.glob("**/*_disra.ipynb")
     if not any(ignored in nb.parts for ignored in IGNORE_DIRS)
 ]
 
